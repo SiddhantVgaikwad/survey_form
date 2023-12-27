@@ -1,4 +1,8 @@
 # survey_form
 
+➡️this Survey Form basically a Users can fill out the form seamlessly, and upon login to the server, they gain access to view their previous responses. Experience the convenience of securely revisiting and reviewing your past form submissions with ease.
+ 
 
-I apologize for the delay in deploying the project. I encountered multiple errors, but I am working to resolve them promptly and will deploy the project as soon as possible. Thank you for your patience
+➡️during the project building i had facing issues in the backend, specifically with user authentication in login and signup processes. Additionally, experiencing challenges in establishing a cloud connection for MongoDB. Working diligently to resolve these issues promptly.
+
+➡️I apologize for the delay in deploying the project. I encountered multiple errors, but I am working to resolve them promptly and will deploy the project as soon as possible. 
